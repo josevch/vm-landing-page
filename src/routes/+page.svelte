@@ -79,7 +79,7 @@
                 : 'opacity-0 translate-y-8'}"
         >
             Biotecnología de vanguardia para la optimización biológica y
-            regeneración molecular sin procedimientos invasivos.
+            regeneración celular sin procedimientos invasivos.
         </p>
 
         <div
